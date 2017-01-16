@@ -1,0 +1,3 @@
+#!/bin/bash
+url=$( xclip -o )
+mpv --no-osc --no-osd-bar "$url"
