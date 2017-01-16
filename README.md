@@ -1,2 +1,2 @@
 # mpvplay
-mpv usability scripts
+mpv usability scripts for playing online videos
